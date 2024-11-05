@@ -8,7 +8,7 @@ export default async function handler(req, res) {
             input: message,
         }, {
             headers: {
-                "Authorization": `Bearer AIzaSyDIaKigunVlkjIHhZYTAkM4n65arWXHdtY`,
+                "Authorization": `Bearer `,
                 "Content-Type": "application/json",
             }
         });
