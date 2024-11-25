@@ -2,7 +2,7 @@
 
 ## 2024-12-07
 
-Tech exploration day
+Coding practice session
 
 > First, solve the problem. Then, write the code.
 
