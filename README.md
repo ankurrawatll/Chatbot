@@ -2,7 +2,7 @@
 
 ## 2024-11-20
 
-Exploring new technologies
+Reflecting on programming journey
 
 > Software is eating the world.
 
