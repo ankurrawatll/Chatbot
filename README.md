@@ -2,8 +2,8 @@
 
 ## 2024-12-05
 
-Tech exploration day
+Coding practice session
 
-> Code is poetry in motion.
+> Programming is the art of telling another human what one wants the computer to do.
 
 *Auto-generated commit for activity tracking*
