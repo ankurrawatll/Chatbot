@@ -2,8 +2,8 @@
 
 ## 2024-11-24
 
-Worked on a new project today
+Tech exploration day
 
-> Programming is the art of telling another human what one wants the computer to do.
+> First, solve the problem. Then, write the code.
 
 *Auto-generated commit for activity tracking*
