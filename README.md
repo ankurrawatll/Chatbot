@@ -2,8 +2,8 @@
 
 ## 2024-12-05
 
-Coding practice session
+Random coding thoughts
 
-> Programming is the art of telling another human what one wants the computer to do.
+> Software is eating the world.
 
 *Auto-generated commit for activity tracking*
