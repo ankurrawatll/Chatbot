@@ -2,7 +2,7 @@
 
 ## 2024-12-16
 
-Learned something interesting
+Exploring new technologies
 
 > Keep calm and code on!
 
